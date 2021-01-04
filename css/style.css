@@ -103,12 +103,10 @@
 
 .img {
     height: 502px;
-    border-style: dashed;
     width: 40%;
 }
 
 .about-me .img img {
-    border-style: solid;
     width: 100%;
     height: 100%;
 }
